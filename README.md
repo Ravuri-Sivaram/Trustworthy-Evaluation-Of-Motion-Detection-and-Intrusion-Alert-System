@@ -61,12 +61,13 @@ Then Run the main file:
 ```bash
 python main.py
 ```
-### Expected Behavior:
+### Expected Output:
 - The webcam will start capturing frames.
 - If a **known face** is detected → **No alarm**.
 - If an **unknown face** is detected → **Alarm sound & Email Alert Sent**.
 - Email will contain the captured frames of the unknown person.
 - Detected Frame will be Encrypted By Fernet Algorithm using Secret Key.
+- Evaluation Metrices of the model such as  F1 score, Precision 
 
 To stop the program, press **'Q'**.
 
