@@ -1,0 +1,2 @@
+# Trustworthy-Evaluation-Of-Motion-Detection-and-Intrusion-Alert-System
+A motion detection and intrusion alert system focused on trustworthy evaluation. This project evaluates trustworthiness aspects of AI-powered surveillance, specifically privacy, robustness, and security. The system uses advanced models like YOLOv8 to ensure reliable motion detection, while prioritizing data protection and ethical AI practices.
