@@ -55,7 +55,6 @@ python Secret_Key.py
 ```
 ### Expected Outcome:
 - It will generate a Secret Key for Encryption.
-- 
 Then Run the main file:
 ```bash
 python main.py
@@ -84,7 +83,9 @@ python robustness_test_webcam.py
 #Press l for Lighting, n for noise, o for occlusion, and b for blur scenario's image capturing
 ```
 ### Expected Outcome:
-- It will prompt the webcam capturing the frames with option of blur, lighting, occlusion, noise options 
+- It will prompt the webcam capturing the frames with option of blur, lighting, occlusion, noise options
+
+For Analysis:
 ```bash
 python analyze_robustness.py
 ```
