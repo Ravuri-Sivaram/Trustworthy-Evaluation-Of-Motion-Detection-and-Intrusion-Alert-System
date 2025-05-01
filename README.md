@@ -49,6 +49,8 @@ To receive email alerts, you need to set up your **Gmail App Password**:
 ---
 
 ## 🚀 Running the Application
+Load all python files into IDE (incase of us, we use Spydey IDE)
+
 Once everything is set up, run the script using:
 ```bash
 python Secret_Key.py
