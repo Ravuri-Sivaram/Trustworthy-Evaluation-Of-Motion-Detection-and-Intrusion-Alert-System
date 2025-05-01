@@ -1,0 +1,23 @@
+# Core libraries
+opencv-python
+numpy
+imutils
+matplotlib
+seaborn
+pandas
+scikit-learn
+face-recognition
+threading
+datetime
+
+# Email + Sound Alerts
+playsound
+python-dotenv
+smtplib    
+email-validator
+email
+smtplib
+
+# Logging and encryption
+cryptography
+
